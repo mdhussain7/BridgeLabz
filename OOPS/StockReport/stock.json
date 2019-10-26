@@ -1,0 +1,61 @@
+{
+    "Gold" : [{
+        "name":"gold",
+        "carret": 24,
+        "price": 28000,
+        "weight": 50
+        },
+        {
+        "name":"gold",
+        "carret": 22,
+        "price": 24000,
+        "weight": 30
+        },
+        {
+        "name":"gold",
+        "carret": 20,
+        "price": 18000,
+        "weight": 30
+        }
+    ],
+    "Silver" : [
+        {
+        "name":"silver",
+        "carret": 24,
+        "price": 14000,
+        "weight": 30
+        },
+        {
+        "name":"silver",
+        "carret": 22,
+        "price": 10000,
+        "weight": 30
+        },
+        {
+        "name":"silver",
+        "carret": 18,
+        "price": 8000,
+        "weight": 30
+        }
+    ],
+
+    "Diamond" : [{ 
+        "name":"diamond",     
+        "carret": 24,
+        "price": 200000,
+        "weight": 50
+        },
+        {   
+        "name":"diamond",   
+        "carret": 22,
+        "price": 170000,
+        "weight": 50
+        },
+        {    
+        "name":"diamond",  
+        "carret": 18,
+        "price": 1500000,
+        "weight": 50
+        }
+    ]
+}

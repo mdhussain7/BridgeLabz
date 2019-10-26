@@ -1,0 +1,65 @@
+{
+  "Dr. Shifana Anjum": [
+    {
+      "pName": "Shahazad Shaikh",
+      "Id": 12,
+      "pAge": 24,
+      "pMobNumber": "8446663013",
+      "Time": "AM"
+    }
+  ],
+  "Dr. Usma": [
+    {
+      "pName": "Noothan",
+      "Id": 14,
+      "pAge": 21,
+      "pMobNumber": "9420036520",
+      "Time": "PM"
+    }
+  ],
+  "Dr. Venkatesh": [
+    {
+      "pName": "Ramesh",
+      "Id": 15,
+      "pAge": 22,
+      "pMobNumber": "8976348562",
+      "Time": "AM"
+    }
+  ],
+  "Dr. Thamanna": [
+    {
+      "pName": "Sathish",
+      "Id": 12,
+      "pAge": 34,
+      "pMobNumber": "8956345213",
+      "Time": "AM"
+    }
+  ],
+  "Dr. Ramya": [
+    {
+      "pName": "Sai Kumar",
+      "Id": 18,
+      "pAge": 34,
+      "pMobNumber": "8956345213",
+      "Time": "AM"
+    }
+  ],
+  "Dr. Bhoomika": [
+    {
+      "pName": "Sai Kumar",
+      "Id": 28,
+      "pAge": 14,
+      "pMobNumber": "8956345213",
+      "Time": "AM"
+    }
+  ],
+  "Dr. Sai Kumar": [
+    {
+      "pName": "Sathya Sai",
+      "Id": 08,
+      "pAge": 24,
+      "pMobNumber": "8956345213",
+      "Time": "AM"
+    }
+  ]
+}

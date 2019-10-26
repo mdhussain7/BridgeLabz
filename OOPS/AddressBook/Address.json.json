@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "Fname": "Mohammed",
+      "Lname": "Hussain",
+      "mobile": "9902092790",
+      "area": "Mandli",
+      "city": "Shimogga",
+      "zipcode": "577202",
+      "state": "Karnataka"
+    },
+    {
+      "Fname": "Mohammed",
+      "Lname": "Hussain",
+      "mobile": "9902092790",
+      "area": "mandli",
+      "city": "Shimogga",
+      "zipcode": "577202",
+      "state": "Karnataka"
+    },
+    {
+      "Fname": "Sai",
+      "Lname": "Kumar",
+      "mobile": "2123546798",
+      "area": "fhsjk",
+      "city": "sfgbsb",
+      "zipcode": "092121",
+      "state": "gfsjfngj"
+    },
+    {
+      "Fname": "vishnu",
+      "Lname": "sdf",
+      "mobile": "438973434",
+      "area": "fdasdfad",
+      "city": "dafdfd",
+      "zipcode": "232333",
+      "state": "fvgfvv"
+    },
+    {
+      "Fname": "Noothan",
+      "Lname": "Kumar",
+      "mobile": "1234567890",
+      "area": "makjdas",
+      "city": "ajdshnkjls",
+      "zipcode": "123456",
+      "state": "Kerala"
+    }
+  ]
+}

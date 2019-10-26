@@ -1,0 +1,46 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. Shifana Anjum",
+      "Id": 1100,
+      "specialization": "Cardiologist",
+      "availability": "AM"
+    },
+    {
+      "name": "Dr. Usma",
+      "Id": 2321,
+      "specialization": "Neurologist",
+      "availability": "PM"
+    },
+    {
+      "name": "Dr. Thamanna",
+      "Id": 2790,
+      "specialization": "Addiction psychiatrist",
+      "availability": "AM"
+    },
+    {
+      "name": "Dr. Venkatesh",
+      "Id": 2113,
+      "specialization": "Cardiovascular surgeon",
+      "availability": "Both"
+    },
+    {
+      "name": "Dr. Ramya",
+      "Id": 1141,
+      "specialization": "Cancer",
+      "availability": "Both"
+    },
+    {
+      "name": "Dr. Bhoomika",
+      "Id": 5211,
+      "specialization": "Casuality",
+      "availability": "PM"
+    },
+    {
+      "name": "Dr. Sai Kumar",
+      "Id": 4241,
+      "specialization": "Gynecologist",
+      "availability": "AM"
+    }
+  ]
+}

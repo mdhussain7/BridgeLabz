@@ -1,0 +1,22 @@
+{
+    "Shares" : [
+        {
+        "share":"Production",
+        "amount": 25000,
+        "stock": 10000,
+        "symbol": "$"
+        },
+        {
+        "share":"Sales",
+        "amount": 500000,
+        "stock": 14000,
+        "symbol": "$"
+        },
+        {
+        "share":"Marketing",
+        "amount": 240000,
+        "stock": 15000,
+        "symbol": "$"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Products" : [{ 
+        "product":"Audi",     
+        "count": 2400,
+        "productionDate": "20/05/2019",
+        "investment": 50000000
+        },
+        {   
+        "product":"Benz",   
+        "count": 22,
+        "productionDate": "20/05/2015",
+        "investment": 2500000
+        },
+        {    
+        "product":"Ford",  
+        "count": 18,
+        "productionDate": "20/05/2017",
+        "investment": 5000000
+        }
+    ]
+}

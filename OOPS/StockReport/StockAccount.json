@@ -1,0 +1,21 @@
+{
+    "Users" : [{
+        "name":"Mohammed Hussain Sab",
+        "Age": 22,
+        "Dob": "28/05/1997",
+        "Address": "Ilyas Nagar Shimogga"
+        },
+        {
+        "name":"Venkateshwara G",
+        "Age": 23,
+        "Dob": "15/10/1996",
+        "Address": "Basavanagudi Shimogga"
+        },
+        {
+        "name":"Sabiha Banu",
+        "Age": 23,
+        "Dob": "28/03/1996",
+        "Address": "Ilyas Nagar Shimogga"
+        }
+    ]
+}
